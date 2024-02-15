@@ -1,14 +1,18 @@
 # AI-Academic-projects
 neural networks, genetic algorithm
 # Data scraping and car price prediction  
-1. [ Description. ](#neural)
-2. [ How it works ](#genetic)
+1. [ Neural networks  ](#neural)
+2. [ Genetic algorithm ](#genetic)
 
 
 <a name="neural"></a>  
 ## 1. Neural networks  
 
-This is implementation of neural networks solving XOR problem.
+This is implementation of neural networks (Rosenblatt perceptrons) solving XOR problem.
+To solve XOR problem the simplest Architecture of networks looks like this:  
+![image](https://github.com/TomDzie/AI-Academic-projects/assets/117634603/b8957c49-bc36-409d-aa08-5991c1bd4132)
+For this purpose all perceptrons use sigmoid activation function, and mean square error function.
+
 
 <a name="genetic"></a>  
 ## 2. Genetic algorithm
