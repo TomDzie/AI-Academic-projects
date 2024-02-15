@@ -10,7 +10,9 @@ neural networks, genetic algorithm
 
 This is implementation of neural networks (Rosenblatt perceptrons) solving XOR problem.
 To solve XOR problem the simplest Architecture of networks looks like this:  
-![image](https://github.com/TomDzie/AI-Academic-projects/assets/117634603/b8957c49-bc36-409d-aa08-5991c1bd4132)
+  
+![image](https://github.com/TomDzie/AI-Academic-projects/assets/117634603/b8957c49-bc36-409d-aa08-5991c1bd4132)  
+  
 For this purpose all perceptrons use sigmoid activation function, and mean square error function.
 
 
